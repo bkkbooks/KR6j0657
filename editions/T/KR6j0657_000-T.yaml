@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0657/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說一切如來安像三昧儀軌經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1418.xml
+    old_id: T21n1418
+hash: sha256:1a065e173db77189cd341777218fe5cd6684c2823eb74541689cf250c6fee96f

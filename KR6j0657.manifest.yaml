@@ -1,0 +1,53 @@
+canonical_identifier: bkk:krp/KR6j0657/v1
+canonical_location: https://kanripo.org/bkk/KR6j0657/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說一切如來安像三昧儀軌經
+  identifiers:
+    alt_id:
+    - T21n1418
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1418.xml
+    old_id: T21n1418
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0657_000.yaml, hash: 'sha256:1a065e173db77189cd341777218fe5cd6684c2823eb74541689cf250c6fee96f'}
+  - {seq: 1, filename: KR6j0657_001.yaml, hash: 'sha256:11d7605d37b3f66ba5e81dcc873d5a366307b91f2897fd1ff11d69cb5bfbe209'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0657_001.markers.yaml, hash: 'sha256:3d775148a752bd32fc4916fb8abcfe74bfd96ca55510dbc341e8687d1e9004f1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0657_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2896
+  label: '佛說一切如來安像三昧儀
+
+    軌經'
+  type: juan
+  level: 1
+hash: sha256:75ff7b44e5e2e3b7e7d1afc892d9c4e5ba4421e184404db2e631bcfa23b1c4ce
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
