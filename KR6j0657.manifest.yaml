@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0657_000.yaml, hash: 'sha256:1a065e173db77189cd341777218fe5cd6684c2823eb74541689cf250c6fee96f'}
-  - {seq: 1, filename: KR6j0657_001.yaml, hash: 'sha256:11d7605d37b3f66ba5e81dcc873d5a366307b91f2897fd1ff11d69cb5bfbe209'}
+  - {seq: 1, filename: KR6j0657_001.yaml, hash: 'sha256:028fcf173f221fc2023e9c390f7067805a205a9200ffe5649e1d73b3d45eb0cb'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0657_001.markers.yaml, hash: 'sha256:3d775148a752bd32fc4916fb8abcfe74bfd96ca55510dbc341e8687d1e9004f1'}
+  - {seq: 0, role: markers, filename: assets/KR6j0657_000.markers.yaml, hash: 'sha256:9cf5471f06989961faa3e86c50311857b54d410b92c3fce589971acc311a6146'}
+  - {seq: 1, role: markers, filename: assets/KR6j0657_001.markers.yaml, hash: 'sha256:74c5e8f2cbcb7693a2858f5e969438f53cd09f885bf183cd1e34174653fad6c1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -47,7 +48,4 @@ table_of_contents:
     軌經'
   type: juan
   level: 1
-hash: sha256:75ff7b44e5e2e3b7e7d1afc892d9c4e5ba4421e184404db2e631bcfa23b1c4ce
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7e55628f5c0f72f2abdaec5a81fd351f0e78720a04086515e84e64470975d9e1
