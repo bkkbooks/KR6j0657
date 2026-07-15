@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0657/v1
 canonical_location: https://kanripo.org/bkk/KR6j0657/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說一切如來安像三昧儀軌經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0657_000.yaml, hash: 'sha256:1a065e173db77189cd341777218fe5cd6684c2823eb74541689cf250c6fee96f'}
-  - {seq: 1, filename: KR6j0657_001.yaml, hash: 'sha256:028fcf173f221fc2023e9c390f7067805a205a9200ffe5649e1d73b3d45eb0cb'}
+  - {seq: 1, filename: KR6j0657_001.yaml, hash: 'sha256:f3be982121b5a842466d82ef5c18f558080c9309581dc268effbfb379883177b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0657_000.markers.yaml, hash: 'sha256:9cf5471f06989961faa3e86c50311857b54d410b92c3fce589971acc311a6146'}
-  - {seq: 1, role: markers, filename: assets/KR6j0657_001.markers.yaml, hash: 'sha256:74c5e8f2cbcb7693a2858f5e969438f53cd09f885bf183cd1e34174653fad6c1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0657_001.markers.yaml, hash: 'sha256:80c75d7ced6f6a8d4ffc69c6f9361592217610aec7f0d995b717f9ed653e76cf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,4 +48,7 @@ table_of_contents:
     軌經'
   type: juan
   level: 1
-hash: sha256:7e55628f5c0f72f2abdaec5a81fd351f0e78720a04086515e84e64470975d9e1
+hash: sha256:c2d0d62f635c77a1fb640cd0936fdcc33d42c5430750a3f3aa03e0553145684b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
